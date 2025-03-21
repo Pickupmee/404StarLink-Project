@@ -1,2 +1,0 @@
-#!/bin/bash
-echo "Starlink is great!" > /tmp/local
